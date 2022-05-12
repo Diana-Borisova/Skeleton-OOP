@@ -7,7 +7,7 @@ import java.util.Collection;
 
 
 public abstract class BaseHelper implements Helper{
-    private String name;
+
     private int energy;
     private Collection<Instrument> instruments;
 
